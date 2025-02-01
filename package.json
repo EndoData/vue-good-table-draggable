@@ -56,6 +56,7 @@
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10",
-    "vuepress": "^1.0.0-rc.1"
+    "vuepress": "^1.0.0-rc.1",
+    "webpack": "^4.47.0"
   }
 }
